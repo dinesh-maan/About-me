@@ -1,0 +1,329 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"v",
+				"value"
+			],
+			[
+				"m",
+				"myfunc2"
+			],
+			[
+				"nu",
+				"num"
+			],
+			[
+				"sr",
+				"str2"
+			],
+			[
+				"str",
+				"str1"
+			],
+			[
+				"u",
+				"uppercase\ttext-transform"
+			],
+			[
+				"i",
+				"initial\ttext-shadow"
+			],
+			[
+				"tex",
+				"text-shadow\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"b",
+				"border-color\tproperty"
+			],
+			[
+				"li",
+				"link\tTag"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"DI",
+				"DIV\tTag"
+			],
+			[
+				"h",
+				"html\thtml"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"backgro",
+				"background-color\tproperty"
+			],
+			[
+				"fon",
+				"font-style\tproperty"
+			],
+			[
+				"st",
+				"style\tTag"
+			],
+			[
+				"te",
+				"text-align\tproperty"
+			],
+			[
+				"wi",
+				"width\tproperty"
+			],
+			[
+				"a",
+				"alt\tAttr"
+			],
+			[
+				"sectio",
+				"section3"
+			],
+			[
+				"sect",
+				"section2"
+			],
+			[
+				"sa",
+				"same-directory"
+			],
+			[
+				"io",
+				"iostream\tstandard header"
+			],
+			[
+				"l",
+				"li\tTag"
+			],
+			[
+				"head",
+				"header\tTag"
+			],
+			[
+				"met",
+				"meta\tTag"
+			],
+			[
+				"di",
+				"div\tTag"
+			],
+			[
+				"ti",
+				"title\tTag"
+			],
+			[
+				"me",
+				"meta\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"About"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/91800/Python/hello.py",
+		"/C/Users/91800/Downloads/AzureML/Tutorial/.azurml/01-create-workspace.py",
+		"/C/Users/91800/Downloads/AzureML/Tutorial/.azurml/01-create-workspace",
+		"/C/Users/91800/AzureML",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/inheritance.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/style.css",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/external.css",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/origin.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/style-placement.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/pseudo-selectors-before.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/descendent-selector-after.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/descendent-selector-before.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/child-selector-after.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/child-selector-before.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/element-with-class-after.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/element-with-class-before.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/simple-selectors-after.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/simple-selectors-before.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-2/CSS-Syntex.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/images.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/links-same-pages.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/Links-external.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/Links-Internal.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/first.cpp",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/html-entities-after.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/orderd-list-before.html",
+		"/C/Users/91800/OneDrive/Desktop/coursera-test/doc-structure-before.html",
+		"/C/Users/91800/OneDrive/Desktop/web- devlopment/week-1/html-entities-before.html",
+		"/C/Users/91800/OneDrive/Desktop/coursera-test/week-1/unorderd-list-before.html",
+		"/C/Users/91800/OneDrive/Desktop/coursera-test/week-1/semantic-elements.html",
+		"/C/Users/91800/OneDrive/Desktop/coursera-test/week-1/headings.html",
+		"/C/Users/91800/OneDrive/Desktop/coursera-test/week-1/div-ans-span.html",
+		"/C/Users/91800/OneDrive/Desktop/coursera-test/site/index.html"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
